@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W21884
   title: འབྲུ་འགྲེལ་འཕྲུལ་ལྡེའི་གསལ་འགྲེལ་ཐུ་མིའི་དགོངས་གནད་གསལ་བའི་མེ་ལོང་།
-  volume: ''
+  volume:
+    4d1060e8a904462795f570a2b264c6a9:
+      image_group_id: I1KG14895
+      title: Volume 1 of 'bru 'grel 'phrul lde'i gsal 'grel thu mi'i dgongs gnad gsal
+        ba'i me long
+      volume_number: 1
+      total_pages: 228
   author: ''
+ebook_metadata:
+  title: འབྲུ་འགྲེལ་འཕྲུལ་ལྡེའི་གསལ་འགྲེལ་ཐུ་མིའི་དགོངས་གནད་གསལ་བའི་མེ་ལོང་།
+  author: ''
+  sku: P000345
+  cover: cover.jpg
+  layers:
+  - pagination
